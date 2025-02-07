@@ -65,7 +65,7 @@ function Skill() {
 
 									<div className='skill_box'>
 										<h3>NodeJS</h3>
-										<Progress percent={50} strokeWidth={3} strokeColor="rgb(187, 81, 71)" />
+										<Progress percent={70} strokeWidth={3} strokeColor="rgb(187, 81, 71)" />
 									</div>
 
 									<div className='skill_box'>
