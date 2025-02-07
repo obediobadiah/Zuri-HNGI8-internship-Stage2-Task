@@ -44,6 +44,9 @@ function Skill() {
 									<div className='skill_box'><h3>AngularJS</h3>
 										<Progress percent={50} strokeWidth={3} strokeColor="rgb(187, 81, 71)" />
 									</div>
+		   							<div className='skill_box'><h3>Typescript</h3>
+										<Progress percent={80} strokeWidth={3} strokeColor="rgb(187, 81, 71)" />
+									</div>
 
 								</div>
 							</div>
@@ -156,6 +159,19 @@ function Skill() {
 									</div>
 									<div className='skill_box'>
 										<h3>Firebase</h3>
+										<Progress percent={90} strokeWidth={3} strokeColor="rgb(187, 81, 71)" />
+									</div>
+								</div>
+							</div>
+						</div>
+						<div className="skill-info">
+							<div className="skill-details">
+								<div className="skill-detail-name">
+									<h2 className="categories">PaaS</h2>
+								</div>
+								<div className="skill-detail-info">
+									<div className='skill_box'>
+										<h3>Docker</h3>
 										<Progress percent={90} strokeWidth={3} strokeColor="rgb(187, 81, 71)" />
 									</div>
 								</div>
